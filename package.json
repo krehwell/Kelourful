@@ -1,0 +1,20 @@
+{
+	"name": "theme-kelourful",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "krehwell",
+	"license": "MIT",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "kelourful",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kelourful-color-theme.json"
+			}
+		]
+	}
+}
