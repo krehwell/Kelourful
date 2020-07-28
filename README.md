@@ -14,7 +14,8 @@ _since this is not published into any marketplace, so the only way to install it
 3. Run/Reload VS Code and select Theme by: `Cmd+Shift+P` || `f1` > `Preferences: Color Theme`>`Kelourful`.
 
 ## Preview
-Screenshot
+1. ![kelourful](kelourful.png)
+2. ![kelourful1](kelourful1.png)
 
 ## Preferences Shown in Screenshots
 - The file icons theme is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
