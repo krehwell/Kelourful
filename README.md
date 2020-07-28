@@ -2,7 +2,7 @@
 VS Code theme made by krehwell.  
  
 ## About Kelourful
-Kelourful is made for VS Code, it is inspired by color-scheme of [Photonica](https://github.com/Photonico/Photonica) and enhanced it with a more solid dark color and borderless 0.5.7 UI.
+Kelourful is made for VS Code, it is inspired by color-scheme of [Photonica](https://github.com/Photonico/Photonica) `v0.5.7` and enhanced it with a more solid dark color and borderless  UI.
 
 ## Installation
 I know that there will be nobody install this bullshit. However still I will guide you 'nobody' on how to do it.  
