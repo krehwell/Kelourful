@@ -24,7 +24,7 @@ Screenshot:
 
 
 ## Acknowledgment
-The Photonica dark theme is inspired by the Darcula Theme.
+To Photonica theme, thanks. love ur theme (the old ver.)
 
 ## More information
 Kelourful is open source via GitHub Repository. I will feel so so much happy if someone can develop his themes based on Kelourful. You can just submit pull request your theme and show it off, I am glad to review it to take more reference for me to make a better moar bullshit out of theme
