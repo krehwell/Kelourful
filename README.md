@@ -15,8 +15,8 @@ _since this is not published into any marketplace, so the only way to install it
 
 ## Preview
 Screenshot:
-![kelourful](kelourful.png =250x)
-![kelourful1](kelourful1.png =250)
+![kelourful](kelourful.png)
+![kelourful1](kelourful1.png)
 
 ## Preferences Shown in Screenshots
 - The file icons theme is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
