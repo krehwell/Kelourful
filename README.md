@@ -14,14 +14,17 @@ _since this is not published into any marketplace, so the only way to install it
 3. Run/Reload VS Code and select Theme by: `Cmd+Shift+P` || `f1` > `Preferences: Color Theme`>`Kelourful`.
 
 ## Preview
-Screenshot:
-![kelourful](kelourful.png)
-![kelourful1](kelourful1.png)
+**Screenshot1**
+![kelourful ss 0](kelourful.png)
+**Screenshot2**
+![kelourful ss 1](kelourful1.png)
+**Screenshot3**
+![kelourful ss 3](kelourful3.png)
 
 ## Preferences Shown in Screenshots
 - The file icons theme is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 - The extension which match brackets to be identified with colours is [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2).
-- np!!: the green text in the above picture on the sidebar is just the git to be commit not the default color of the text (default text color is just the same as title bar's text)
+- **np!! :** the green text in the above picture on the sidebar is just the git to be commit not the default color of the text (default text color is just the same as title bar's text)
 
 
 ## Acknowledgment
