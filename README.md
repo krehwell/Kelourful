@@ -19,7 +19,7 @@ _since this is not published into any marketplace, so the only way to install it
 **Screenshot2**
 ![kelourful ss 1](kelourful1.png)
 **Screenshot3**
-![kelourful ss 3](kelourful3.png)
+![kelourful ss 3](kelourful3.PNG)
 
 ## Preferences Shown in Screenshots
 - The file icons theme is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
